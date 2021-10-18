@@ -33,7 +33,7 @@ This is my solution to the [Order summary card challenge on Frontend Mentor](htt
 
 
 ## Project URL
- - Live url: [Order Summary Card](https://thisisyinka.github.io/)
+ - Live url: [Order Summary Card](https://thisisyinka.github.io/order-summary/)
 
 ## Author
 Me 😊
