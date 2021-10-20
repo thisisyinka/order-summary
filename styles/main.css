@@ -86,7 +86,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    width: 100px;
+    width: 200px;
 }
 
 .text .heading {
@@ -98,7 +98,7 @@ body {
     text-decoration: none;
 }
 
-.text .subscription, .bottom .cancel span {
+.text .subscription, .bottom .cancel span, .paragraph-wrapper p {
     color: hsl(224, 23%, 55%);
 }
 
@@ -172,5 +172,9 @@ body {
 
     .middle .paragraph-wrapper {
         width: 300px;
+    }
+
+    .plan-group {
+        width: 200px;
     }
 }
